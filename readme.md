@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/Hi.gif" width="30px"> 💁🏻‍♂️👇 Check out my Git Hub Profile👇</h2>
 <br/>
-<img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/nakulbhati.png"></h2>
+</h2>
 <br/>
 
 

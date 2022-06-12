@@ -11,9 +11,7 @@ I'm Akshay!
  * 🏳️ Always open to talk about tech, count me in for peer programming or for learning new skills.
  * ✌️  Mostly intrested and working on JS, React Native and a bunch of other stuff.
 
-
-
-
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Akshaymonkv&&show_icons=true&&theme=dark&show_icons=true" >
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaymonkv&layout=compact" >

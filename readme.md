@@ -6,7 +6,7 @@
 
 I'm Akshay!
  * 🖥️ Software Engineer at TCS
- * 🎓 Graduated in B.Tech Computer Science & ENgineering
+ * 🎓 Graduated in B.Tech Computer Science & Engineering
  * 📚 Learning and improving coding knowledge and skills at the moment
  * 🏳️ Always open to talk about tech, count me in for peer programming or for learning new skills.
  * ✌️  Mostly intrested and working on JS, React Native and a bunch of other stuff.

@@ -9,7 +9,10 @@ I'm Akshay!
  * 🎓 Graduated in B.Tech Computer Science & Engineering
  * 📚 Learning and improving coding knowledge and skills at the moment
  * 🏳️ Always open to talk about tech, count me in for peer programming or for learning new skills.
- * ✌️  Mostly intrested and working on JS, React Native and a bunch of other stuff.
+ * ✌️ Skilled in JS and it's frameworks, Node.js, Express.js and React.js + ( React Native ) in particular.
+ * 🏳️ Experience in Java and Python programming languages.
+ * 💁 Intrested to learn and collaborate on data science projects.
+ * 🎓 Experinced in working with mainframe system in the MLEU and Business Finance domains.
 
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=Akshaymonkv&&show_icons=true&&theme=dark&show_icons=true" >

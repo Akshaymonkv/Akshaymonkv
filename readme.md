@@ -3,6 +3,10 @@
 </h2>
 <br/>
 
+<div id="header" align="center">
+   <img src= "https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" width="100"/>
+</div>
+
 
 I'm Akshay!
  * 🖥️ Software Engineer at TCS
@@ -15,9 +19,15 @@ I'm Akshay!
  * 🎓 Experinced in working with mainframe systems in the MLEU and Business-Finance domains.
 
 <br/>
+<div id="vercelone" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Akshaymonkv&&show_icons=true&&theme=dark&show_icons=true" >
+</div>
+
 <br/>
+<div id="verceltwo" align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaymonkv&layout=compact" >
+
+</div>
 
 👨🏻‍💻Please feel free to get in touch, I'll be happy to help!💁🏻‍♂️ [Email](kvakshaymon@gmail.com)
 
